@@ -19,7 +19,7 @@
             "headers": [],
             "body": {
                 "type": "json",
-                "raw": "{\r\n  \"correo\": \"ana@email.com\",\r\n  \"contraseña\": \"1234\"\r\n}",
+                "raw": "{\r\n  \"correo\": \"abc@gmail.com\",\r\n  \"contraseña\": \"1234\"\r\n}",
                 "form": []
             }
         }
